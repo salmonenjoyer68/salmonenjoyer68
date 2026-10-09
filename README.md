@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sopheaktra</h1>
 <h3 align="center">CS undergrad building AI that people can actually use. ML, AI engineering, UX/UI.</h3>
 
-- 🌱 I’m currently working on a small world model for farms **World-model-farm**
+-  I’m currently working on a small world model for farms **World-model-farm**
 
 -    I’m currently learning **AI engineering**
 
-- ⚡ Fun fact **I am good at dad jokes**
+-  Fun fact **I am good at dad jokes**
 
 <p align="left">
 </p>
