@@ -5,8 +5,6 @@
 
 -    I’m currently learning **AI engineering**
 
--  Fun fact **I am good at dad jokes**
-
 <p align="left">
 </p>
 
