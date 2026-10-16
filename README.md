@@ -16,7 +16,7 @@
 
 ## 👋 About
 
-I build AI systems and make them usable. I like taking an idea from a model in a notebook to something a real person can open, understand, and rely on. My background in UX/UI design and frontend development shapes how I build AI products.
+I build AI systems and make them usable. I like taking an idea from a model in a notebook to something a real person can open, understand, and rely on.
 
 <br/>
 
