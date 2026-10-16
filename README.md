@@ -60,7 +60,6 @@ Active work in progress:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="28" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" alt="Figma" />
 </div>
 
 <br/>
