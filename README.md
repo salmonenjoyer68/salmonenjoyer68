@@ -29,46 +29,53 @@ I build AI systems and make them usable. I like taking an idea from a model in a
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+**LLM & AI**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/langchain/2DA58E" height="40" alt="langchain logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="hugging face logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="28" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" height="28" alt="Claude" />
 </div>
 
 <br/>
 
-**Backend / Data / Tools**
+**ML / DL**
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" alt="pandas" />
 </div>
 
 <br/>
 
-**Frontend / Design**
+**Infrastructure & MLOps**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="28" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28" alt="Git" />
+</div>
+
+<br/>
+
+**Vector DB**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat" height="28" alt="Pinecone" />
+</div>
+
+<br/>
+
+**Languages**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="28" alt="Bash" />
 </div>
 
 <br/>
