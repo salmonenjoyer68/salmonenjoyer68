@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sopheaktra</h1>
+<h1 align="center">Sopheaktra</h1>
 
-<h3 align="center">CS undergrad building AI that people can actually use.<br/>AI Engineering · ML · UX/UI</h3>
+<h3 align="center">CS undergrad building AI that people can actually use.<br/>AI Engineering · ML</h3>
 
 <p align="center">
   📍 Phnom Penh, Cambodia &nbsp;·&nbsp; 🎓 Computer Science
@@ -16,13 +16,16 @@
 
 ## 👋 About
 
-I build AI systems and make them usable. I like taking an idea from a model in a notebook to something a real person can open, understand, and rely on.
+I'm a computer science student in Phnom Penh, moving into AI engineering. I got here by building a bit of everything: design and frontend work, embedded projects, networking labs, and a lot of Python. What I care about most is making AI useful to real people, not just impressive in a notebook. I learn by building, and I like turning an idea into something someone can open, understand, and rely on.
 
 <br/>
 
 ## 🚀 Currently
 
-- 🌾 Building **World-model-farm**, a small world model that simulates how farms respond to climate stress
+Active work in progress:
+
+- 🌾 **World-model-farm**: a small world model that simulates how farms respond to climate stress
+- 🎼 **AI orchestration playground**: conduct a band of AI models and learn how multi-agent orchestration works
 - 📚 Learning **AI engineering**: LLM apps, RAG, agents, and evaluation
 
 <br/>
@@ -57,6 +60,7 @@ I build AI systems and make them usable. I like taking an idea from a model in a
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="28" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" alt="Figma" />
 </div>
 
 <br/>
@@ -69,12 +73,11 @@ I build AI systems and make them usable. I like taking an idea from a model in a
 
 <br/>
 
-**Languages**
+**Languages & Databases**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="28" alt="Bash" />
 </div>
 
