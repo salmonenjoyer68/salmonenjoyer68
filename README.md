@@ -3,7 +3,7 @@
 <h3 align="center">CS undergrad building AI that people can actually use.<br/>AI Engineering · ML</h3>
 
 <p align="center">
-  📍 Phnom Penh, Cambodia &nbsp;·&nbsp; 🎓 Computer Science
+  
 </p>
 
 <p align="center">
