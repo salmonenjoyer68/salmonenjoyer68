@@ -14,7 +14,7 @@
 
 <br/>
 
-## 👋 About
+##  About
 
 I'm a computer science student in Phnom Penh, moving into AI engineering. I got here by building a bit of everything: design and frontend work, embedded projects, networking labs, and a lot of Python. What I care about most is making AI useful to real people, not just impressive in a notebook. I learn by building, and I like turning an idea into something someone can open, understand, and rely on.
 
