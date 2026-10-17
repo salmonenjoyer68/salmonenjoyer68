@@ -24,7 +24,6 @@ I'm a computer science student in Phnom Penh, moving into AI engineering. I got 
 
 Active work in progress:
 
-- 🌾 **World-model-farm**: a small world model that simulates how farms respond to climate stress
 - 🎼 **AI orchestration playground**: conduct a band of AI models and learn how multi-agent orchestration works
 - 📚 Learning **AI engineering**: LLM apps, RAG, agents, and evaluation
 
