@@ -36,7 +36,6 @@ Active work in progress:
 <div align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="28" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" height="28" alt="Claude" />
 </div>
 
