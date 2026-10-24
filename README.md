@@ -1,6 +1,6 @@
 <h1 align="center">I'm Sopheaktra</h1>
 
-<h3 align="center">CS undergrad. I build AI with taste.<br/>AI Engineering · ML</h3>
+<h3 align="center">CS undergrad. I build AI with taste!<br/>AI Engineering · ML</h3>
 
 <p align="center">
   
