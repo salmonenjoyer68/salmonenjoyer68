@@ -1,6 +1,6 @@
-<h1 align="center">I'm Sopheaktra</h1>
+<h1 align="center">Hello!</h1>
 
-<h3 align="center">CS undergrad. I like Building</h3>
+<h3 align="center">CS undergrad. I like ML and Space</h3>
 
 <p align="center">
   
@@ -16,27 +16,26 @@
 
 ##  About
 
-I'm a computer science student in Phnom Penh, moving into AI engineering. I got here by building a bit of everything: design and frontend work, embedded projects, networking labs, and a lot of Python. What I care about most is making AI useful to real people, not just impressive in a notebook. I learn by building, and I like turning an idea into something someone can open, understand, and rely on.
+I'm a computer science student, moving into AI engineering. What I care about most is making AI useful to real people, not just impressive in a notebook. I learn by building, and I like learning complex ideas and making it simple for people.
 
 <br/>
 
-## 🚀 Currently
+##  Currently
 
 Active work in progress:
 
-- 🎼 **AI orchestration playground**: conduct a band of AI models and learn how multi-agent orchestration works
-- 📚 Learning **AI engineering**: LLM apps, RAG, agents, and evaluation
+-  **AI orchestration playground**: conduct a band of AI models and learn how multi-agent orchestration works
+-  Learning **AI engineering**: LLM apps, RAG, agents, and evaluation
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **LLM & AI**
 
 <div align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" height="28" alt="Claude" />
 </div>
 
 <br/>
@@ -80,10 +79,10 @@ Active work in progress:
 
 <br/>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-I'm open to **AI engineering internships and junior roles**. If you're building something where AI meets real users, I'd love to talk.
+I'm open to **AI engineering internships and junior roles**. If you're building something where AI meets real users, I'd love to help.
 
-📫 [chhouysopheaktra30@gmail.com](mailto:chhouysopheaktra30@gmail.com)
+ [chhouysopheaktra30@gmail.com](mailto:chhouysopheaktra30@gmail.com)
 
 <br/>
