@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmonenjoyer68/Gitlaxy/main/galaxy/galaxy-dark.gif" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmonenjoyer68/Gitlaxy/main/galaxy/galaxy-light.gif" />
-      <img alt="Gitlaxy contribution spiral" src="https://raw.githubusercontent.com/salmonenjoyer68/Gitlaxy/main/galaxy/galaxy-dark.gif" width="420" />
+      <img alt="Gitlaxy contribution spiral" src="https://raw.githubusercontent.com/salmonenjoyer68/Gitlaxy/main/galaxy/galaxy-dark.gif" width="320" />
     </picture>
   </a>
 </p>
