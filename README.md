@@ -9,7 +9,7 @@
 </p>
 <h1 align="center">Hello!</h1>
 
-<h3 align="center">CS undergrad. I like ML and Space</h3>
+<h3 align="center">I like ML and Space</h3>
 
 <p align="center">
   
