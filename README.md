@@ -33,7 +33,6 @@ I'm a computer science student, moving into AI engineering. What I care about mo
 
 Active work in progress:
 
--  **AI orchestration playground**: conduct a band of AI models and learn how multi-agent orchestration works
 -  Learning **AI engineering**: LLM apps, RAG, agents, and evaluation
 
 <br/>
